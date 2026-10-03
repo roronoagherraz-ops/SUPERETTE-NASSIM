@@ -1,0 +1,8 @@
+{
+  "name": "Remix Supérette Nassim - Sidi Mérouane",
+  "description": "Supérette Nassim à Sidi Mérouane (Mila). Alimentation générale, vente en gros et détail, ouvert 24h/24 et 7j/7 en face de la Mosquée Taqwa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
